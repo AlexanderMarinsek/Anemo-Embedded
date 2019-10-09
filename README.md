@@ -61,5 +61,5 @@ To get an idea of how to install a fully functional device, refer to [Alexander'
 
 
 ## Notice
-For usage and distribution limitations, please refer to the licensing agreemen, contained in the file `LICENSE`.
+For usage and distribution limitations, please refer to the licensing agreement, contained in the file `LICENSE`.
 
