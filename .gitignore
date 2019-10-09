@@ -1,0 +1,4 @@
+# Ignore hash.h file
+hash.h
+# Ignore built application 
+bin/
